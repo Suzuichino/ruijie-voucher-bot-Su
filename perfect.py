@@ -35,7 +35,7 @@ except ImportError:
 
 # ── Environment variables ─────────────────────────────────────────────────
 BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-ADMIN_IDS = {"1790832095", "6686037630"}
+ADMIN_IDS = {"6686037630"}
 
 # ── Local auth ──────────────────────────────────────────────────────────
 AUTH_FILE = "auth_list.json"
